@@ -11,7 +11,7 @@ title                    : "Kiril's flat hunt sie"
 title_separator          : "-"
 name                     : &name "Kiril Lavrov"
 description              : &description "Incoming PhD Student, University of Zurich Graduate School of Economics"
-url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://klavrov98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,30 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Kiril Lavrov"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              :  # "Associate Professor of Economics, Aoyama Gakuin University"
+  location         : "Taipei (soon Zurich)"
+  employer         : "University of Zurich"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon[atmark]gmail.com"
+  email            : "kiril.lavrov12[atmark]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/kiril.lavrov1212/"
   foursquare       :
-  github           : "ywaki-econ"
+  github           : # "klavrov98"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/kal1212/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-1929-3520"
+  orcid            : # "http://orcid.org/0000-0003-1929-3520"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : "https://researchmap.jp/yuichirowaki/"
+  researchmap      : # "https://researchmap.jp/yuichirowaki/"
 
 
 # Reading Files
