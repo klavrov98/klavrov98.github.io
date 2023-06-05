@@ -8,7 +8,7 @@ redirect_from:
   - /en.html
 ---
 
-Hi! I have set up this page for my flat hunt in Zurich to help you to get a sense of who I am. My name is Kiril (24), and I'm an incoming PhD Student at the [UZH Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html). Previously, I lived and studied in Mannheim (DE) for 5 years. As of today, I have been living in Taiwan since 2022. I am looking for a place in Zurich that I can call home starting this summer.
+Hi there! I have set up this page for my flat hunt in Zurich to help you to get a sense of who I am. My name is Kiril (24), and I'm an incoming PhD Student at the [UZH Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html). Previously, I lived and studied in Mannheim (DE) for 5 years. As of today, I have been living in Taiwan since 2022. I am looking for a place in Zurich that I can call home starting this summer.
 
 **About Me**: I live a proactive but easy-going lifestyle. In the city, I like to hang around in cafés, meet friends, and go to live-music events or the theatre. During longer breaks, I spend most of my time [budget travelling](https://klavrov98.github.io/travel/). I try to continuously stay open to new people, ideas, and activities. Similarly, my taste in music is quite eclectic and strongly inspired by the people around me; recently, I've been listening to Indie, Techno, The Beatles, & 70's Turkish psychedelic rock. I spend most of my time outside the flat but I'm down to join a space, where we occasionally cook, discuss obscure topics over a glass of wine, and perhaps care together for a balcony garden together. :)
 
