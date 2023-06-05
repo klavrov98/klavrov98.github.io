@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              :  # "Associate Professor of Economics, Aoyama Gakuin University"
   location         : "Taipei (soon Zurich)"
-  employer         : "University of Zurich"
+  employer         : # "University of Zurich"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
   email            : "kiril.lavrov12[atmark]gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        : "https://www.instagram.com/kal1212/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/klavrov98/"
   orcid            : # "http://orcid.org/0000-0003-1929-3520"
   pinterest        :
   soundcloud       :
