@@ -24,6 +24,7 @@ When going out, I prefer to go to bars where it's easy to chat with people or da
 - I know bits of: French, Mandarin Chinese, Ukrainian
 - I have been to 67 countries 
 - I grew up in Russia and Germany; my family is from Western Ukraine
+- I lived for 5 years on my own in Mannheim; in Taipei, I'm living in a shared flat with 3 flatmates from Taiwan and abroad
 
 
 
