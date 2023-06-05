@@ -86,7 +86,7 @@ author:
   location         : "Taipei (soon Zurich)"
   employer         : "University of Zurich"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
   email            : "kiril.lavrov12[atmark]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
