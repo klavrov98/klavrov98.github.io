@@ -3,9 +3,6 @@ permalink: /de/
 title: "Über mich"
 excerpt: "Über mich"
 author_profile: true
-redirect_from: 
-  - /de/
-  - /de.html
 ---
 
 Hi! Diese Seite ist dafür da mir bei der WG-Suche in Zürich zu helfen und euch ein Bild von mir zu geben. 
