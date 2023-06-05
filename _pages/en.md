@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me (English)"
-excerpt: "About me (English)"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /en/
