@@ -8,17 +8,13 @@ redirect_from:
   - /en.html
 ---
 
-Hi! I have set up this page to help me hunting for a room in Zurich and to help you to get a sense of who I am.
-My Name is Kiril, I'm 24 years old and an incoming PhD Student at the [University of Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html). Previously, I lived and studied in Mannheim (DE) for 5 years. As of today, I have been living in Taipei (TW) since 2022. I am looking for a place in Zurich that I can call home, ideally for the next few years, starting this summer.
+Hi! I have set up this page for my flat hunt in Zurich to help you to get a sense of who I am. My Name is Kiril (24) and I'm an incoming PhD Student at the [University of Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html). Previously, I lived and studied in Mannheim (DE) for 5 years. As of today, I have been living in Taipei (TW) since 2022. I am looking for a place in Zurich that I can call home starting this summer.
 
-**About Me**: I live a proactive, but at the same time relaxed and spontaneous lifestyle. In the city, I like to hang around in cafés, meet friends, going to live-music events and to visit the theatre. My taste in music is quite eclectic and strongly inspired by the people around me. During my breaks, I spend most of my time [budget travelling](https://klavrov98.github.io/travel/). When going out, I prefer to go to bars where it's easy to chat with people or dance to techno. I love to try out new hobbies. I like to cook and trying out new recipes. While I tend to be on the run a lot, I am looking for a shared flat, where we can enjoy occasional evenings together. I am more than happy to join or kickstart a small home project, such as decorating our common space or caring for a balcony garden.
+**About Me**: I live a proactive but easy-going lifestyle. I like to hang around in cafés in the city, meet friends, going to live-music events and to visit the theatre. During longer breaks, I spend most of my time [budget travelling](https://klavrov98.github.io/travel/). I try to continuously stay open for new people, ideas, and activities. Similarly, my taste in music is quite eclectic and strongly inspired by the people around me; recently, I've mostly been listerning to Indie, Techno, The Beatles, & 70's Turkish psychodelic rock. I spend most of my time outside the flat but I'm down to join a space, where we occasionally cook together, discuss all kinds of obscure topics over a glass of wine, and perhaps care together for a balcony garden. :)
 
-**Contact**: kiril.lavrov12[at]gmail.com    (Please replace [at] with @.)
-**Couchsurfing**: [https://www.couchsurfing.com/people/kiril-lavrov](https://www.couchsurfing.com/people/kiril-lavrov)
-**Social Media**: links are in the left navigation bar
-**Proof of Employment**: [https://drive.google.com/file/d/1c4vwy1cNb2D-mCROJrnPY7uUiUhwKocG/view?usp=sharing](https://drive.google.com/file/d/1c4vwy1cNb2D-mCROJrnPY7uUiUhwKocG/view?usp=sharing)
+You can find my social media profiles in the left navigation bar or "sneak a peek" at my [couchsurfing.com profile](https://www.couchsurfing.com/people/kiril-lavrov). My email is **kiril.lavrov12[at]gmail.com** (please replace [at] with @). I'm happy to provide a proof of employment & income at UZH upon request.
 
-**Quick Facts** 
+**Quick Facts:** 
 - Favourite Song: _We Didn't Start the Fire_ by Billy Joel
 - Favorite Book: _Livro do Desassossego_ by Fernando Pessoa
 - Favourite Film: _Stalker_ by Andrei Tarkovsky
