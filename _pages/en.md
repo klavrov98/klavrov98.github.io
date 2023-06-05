@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kiril's website"
+title: "About me (English)"
 excerpt: "About me (English)"
 author_profile: true
 redirect_from: 
