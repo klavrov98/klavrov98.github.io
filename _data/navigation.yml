@@ -1,19 +1,10 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "English"
+    url: /en/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Deutsch"
+    url: /de/
     
-  - title: "日本語"
-    url: /about_jp/
-
-  - title: "推薦状について"
-    url: /referenceletter/
-
-  - title: "学部ゼミ"
-    url: /undergradseminar/
-
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Picture"
+    url: /pictures/
