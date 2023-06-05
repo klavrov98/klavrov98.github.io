@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiril's flat hunt sie"
+title                    : "Kiril's flat hunt site"
 title_separator          : "-"
 name                     : &name "Kiril Lavrov"
 description              : &description "Incoming PhD Student, University of Zurich Graduate School of Economics"
