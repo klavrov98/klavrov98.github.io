@@ -1,6 +1,6 @@
 ---
-title: "About me"
-excerpt: "About me"
+title: "Über mich"
+excerpt: "Über mich"
 author_profile: true
 ---
 
