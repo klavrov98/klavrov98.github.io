@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuichiro Waki"
+title                    : "Kiril's flat hunt sie"
 title_separator          : "-"
-name                     : &name "Yuichiro Waki"
-description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
+name                     : &name "Kiril Lavrov"
+description              : &description "Incoming PhD Student, University of Zurich Graduate School of Economics"
 url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
